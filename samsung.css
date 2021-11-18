@@ -1,0 +1,462 @@
+body{
+    margin: 0px;
+}
+
+.Header{
+    width: 100%;
+    height: 90px;
+    background: rgb(255, 255, 255);
+}
+
+.FirstHead{
+    width:14%;
+    height: 90px;
+    background: rgb(255, 255, 255);
+    float: left;
+    
+
+}
+
+.SecondHead{
+    width: 50%;
+    height: 90px;
+    background: rgb(255, 255, 255);
+    float: left;
+  
+
+}
+
+.ThirdHead{
+    background: rgb(255, 255, 255);
+    width: 18%;
+    height: 90px;
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.forthHead{
+    height: 90px;
+    width: 18%;
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    background: rgb(255, 255, 255);
+
+}
+
+.samsungText{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    padding-top: 25px;
+    padding-left: 20px;
+    float: left;
+   
+}
+
+.Features{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    padding-top: 35px;
+    padding-left: 8px;
+    float: left;
+    cursor: pointer;
+
+}
+
+.Features:hover{
+    font-weight: bolder;
+    
+}
+.Features2{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    padding-top: 35px;
+    padding-left: 8px;
+    float: left;
+    cursor: pointer;
+    
+    
+
+
+}
+
+.Features2:hover{
+    font-weight: bolder;
+    text-decoration-thickness: 50px;
+}
+
+.Icon1{
+    width: 30px;
+    height: 30px;
+    padding-top: 30px;
+    cursor: pointer;
+    margin-left: 40px;
+    
+
+    
+    background: rgb(255, 255, 255);
+}
+
+.Icon2{
+    width: 30px;
+    height: 30px;
+    padding-top: 30px;
+    cursor: pointer;
+    
+
+    
+    background: rgb(255, 255, 255);
+}
+
+
+.Icon3{
+    width: 70px;
+    height: 70px;
+    padding-top: 10px;
+    cursor: pointer;
+    
+
+    
+    background: rgb(255, 255, 255);
+}
+
+
+.BodyPart{
+    width: 100%;
+    height: 600px;
+    background: rgb(241, 240, 240);
+    
+}
+
+.BodyLeft{
+    float: left;
+
+}
+
+.Text{
+    color: #000;
+    float: left;
+    margin-top: 200px;
+    margin-left: 60px;
+    font-size: 45px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.Rupees{
+     padding-top: 320px;
+     padding-left: 100px;
+     margin-left: 600px;
+}
+
+.Learn{
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    font-weight: lighter;
+    font-style: normal;
+    margin-top: 30px;
+    margin-left: 60px;
+    cursor: pointer;
+
+}
+
+.Learn:hover{
+    text-decoration: underline;
+}
+
+.button{
+    text-align: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding-left: 20px;
+    color: lightcyan;
+    float: left;
+    width: 90px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 100px;
+    background: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    font-weight: normal;
+    ;
+    
+}
+.button:hover{
+    background: rgb(100, 37, 37);
+}
+
+.SecondBody{
+    width: 100%;
+    height: 800px;
+    background: rgb(255, 255, 255);
+    
+  
+}
+
+.Text1{
+    width: 100%;
+    height: 60px;
+    background: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 20px;
+    
+  
+  
+}
+
+.Properties{
+    width: 100%;
+    height: 60px;
+    background: rgb(255, 255, 255);
+    float: left;
+    align-items: center;
+
+}
+
+.TextProperties{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    margin-left: 80px;
+    padding-left: 40px;
+    margin-top: 20px;
+    cursor: pointer;
+
+
+}
+
+.TextProperties:hover{
+    text-decoration: underline;
+    font-weight: lighter;
+    
+
+}
+
+.SecondBodyLeft{
+    width: 50%;
+    height: 700px;
+    background: rgb(255, 255, 255);
+    float: left;
+}
+
+.Image1{
+    width: 600px;
+    height: 600px;
+    padding-left: 20px;
+    float: left;
+    display: flex;
+}
+
+
+
+.SecondBodyRight{
+    width: 50%;
+    height: 700px;
+    background: rgb(255, 255, 255);
+    float: left;
+}
+
+.FirstRight{
+    width: 50%;
+    height: 350px;
+    background: rgb(255, 255, 255);
+    float: left;
+}
+
+.SecondRight{
+    width: 50%;
+    height: 350px;
+    background: rgb(255, 255, 255);
+    float: left;
+
+}
+
+.ThirdRight{
+    width: 50%;
+    height: 350px;
+    background: rgb(255, 255, 255);
+    float: left;
+
+}
+
+.FourthRight{
+    width: 50%;
+    height: 350px;
+    background: rgb(255, 255, 255);
+    float: left;
+
+}
+
+.Gadjet1{
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.PhoneText{
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.ThirdBody{
+    width: 100%;
+    height: 800px;
+    background: rgb(0, 0, 0);
+}
+
+.TvSection{
+    width: 100%;
+    height: 150px;
+    background: rgb(0, 0, 0);
+}
+
+.TVHeading{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 50px;
+    color:rgb(255, 255, 255);
+
+
+}
+.TVtext{
+    width: 100%;
+    height: 80px;
+    background: rgb(0, 0, 0);
+    float: left;
+
+
+}
+
+.File{
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    cursor: pointer;
+    float: left;
+    margin-left: 130px;
+    color: rgb(255, 255, 255);
+}
+
+.File:hover{
+    text-decoration: underline;
+    background: rgb(16, 109, 70);
+}
+
+.TVImage{
+    width: 100%;
+    height: 500px;
+    background: black;
+    
+    
+}
+.ImageSize{
+    width: 900px;
+    height: 400px;
+    padding-left: 230px;
+    
+   
+}
+.Quote{
+    color: white;
+    margin-left: 250px;
+    font-size: 50px;
+    padding-top: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.Footer{
+    width: 100%;
+    height: 200px;
+}
+
+.Last{
+    text-align: center;
+}
+
+.FooterLeft{
+    width:30%;
+    height: 200px;
+    float: left;
+    padding-left: 40px;
+    background: rgb(255, 255, 255);
+   
+}
+.LastText{
+    font-weight: lighter;
+    padding-left: 50px;
+}
+.LastText:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+
+.IconPhone{
+    width: 20px;
+    height: 20px;
+    
+}
+
+
+.FooterMiddle{
+    width:15%;
+    height: 200px;
+    float: left;
+    padding-left: 40px;
+    background: rgb(255, 255, 255);
+}
+.LastText1{
+    font-weight: lighter;
+    padding-left: 70px;
+    
+    
+    
+}
+
+.LastText1:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.FooterRight{
+    width:40%;
+    height: 200px;
+    float: left;
+    margin-left: 30px;
+    padding-left: 40px;
+    background: rgb(255, 255, 255);
+}
+
+.Logos{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    float: left;
+    margin-left: 10px;
+    padding-left: 10px;
+    
+}
